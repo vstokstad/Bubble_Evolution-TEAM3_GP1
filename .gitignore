@@ -1,5 +1,6 @@
 # This file should be placed at the root of your Unity project directory (as far as i know)
 *.o
+*.DS_Store
 
 Library/
 Temp/
